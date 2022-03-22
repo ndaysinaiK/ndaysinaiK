@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Sinai! 👋
 
 I am a tech nerd, Blockchain Enthusiast and Doctoral Student at Korea University.
 
