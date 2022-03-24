@@ -4,8 +4,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ndaysinaiK&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 
+🌱 I’m currently learning everything😊
 
-I am a tech nerd, Blockchain Enthusiast and Doctoral Student at Korea University.
+🏫 I am doctoral student in computer science and engineering at Korea University.
+
+🥅 2022 Goals: Learn more about web3, blockchain and security
+
+⚡ Fun fact: I love playing soccer and visiting nice places in Seoul
 
 <a href="https://www.linkedin.com/in/sinai-nday-312195160/" target="_blank">Let's connect on LinkedIn</a>
 
