@@ -8,7 +8,7 @@
 
 🏫 I am a doctoral student in computer science and engineering at Korea University.
 
-🥅 2023 Goals: Stay away from my desk 
+🥅 2023 Goal: Stay away from my desk 
 
 ⚡ Fun fact: I love playing soccer and visiting nice places in Seoul
 
