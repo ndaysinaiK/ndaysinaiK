@@ -19,10 +19,10 @@
 
 
 ✍ Research Area 
-<code>
+
 - Blockchain
 - Security
-</code>
+
 
 
 
