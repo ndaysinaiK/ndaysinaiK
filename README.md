@@ -6,9 +6,9 @@
 
 🌱 I’m currently learning everything😊
 
-🏫 I am doctoral student in computer science and engineering at Korea University.
+🏫 I am a doctoral student in computer science and engineering at Korea University.
 
-🥅 2022 Goals: Learn more about web3, blockchain and security
+🥅 2023 Goals: Stay away from my desk 
 
 ⚡ Fun fact: I love playing soccer and visiting nice places in Seoul
 
@@ -27,10 +27,6 @@
 </code>
 
 
-📚 Google Scholar
-
-
-https://scholar.google.com/citations?user=A9nVbQkAAAAJ&hl=en
 
 
 
