@@ -1,4 +1,4 @@
-### Hi there, I am Sinai! 👋
+### Hey there! 👋
 
 
 
