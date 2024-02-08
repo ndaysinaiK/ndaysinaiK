@@ -10,7 +10,7 @@
 
 🥅 2024 Goal: Enjoy 🙂
 
-⚡ Hobbies: Soccer, Movies,and maybe Coding 😉
+⚡ Hobbies: Soccer, Workout, Movies,and maybe Coding 😉
 
 <a href="https://www.linkedin.com/in/sinai-nday-312195160/" target="_blank">Let's connect on LinkedIn</a>
 
