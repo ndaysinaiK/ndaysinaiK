@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning everything😊
 
-🏫 I am a doctoral student in computer science and engineering at Korea University.
+🏫 I am a Ph.D canditate majoring in computer science and engineering at Korea University.
 
-🥅 2023 Goal: Stay away from my desk 
+🥅 2024 Goal: Enjoy 🙂
 
-⚡ Fun fact: I love playing soccer and visiting nice places in Seoul
+⚡ Hobbies: Soccer, Movies,and maybe Coding 😉
 
 <a href="https://www.linkedin.com/in/sinai-nday-312195160/" target="_blank">Let's connect on LinkedIn</a>
 
@@ -18,10 +18,11 @@
 
 
 
-✍ Research Area 
+✍ Research interests :  
 
 - Blockchain
 - Security
+- Quantum computing 
 
 
 
