@@ -8,7 +8,7 @@
 
 🏫 I am a Ph.D canditate majoring in computer science and engineering at Korea University.
 
-🥅 2024 Goal: Enjoy 🙂
+🥅 2025 Goal: Focus 🙂
 
 ⚡ Hobbies: Soccer, Workout, Movies,and maybe Coding 😉
 
