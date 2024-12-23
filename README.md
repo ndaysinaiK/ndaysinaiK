@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning everything😊
 
-🏫 I am a Ph.D canditate majoring in computer science and engineering at Korea University.
+🏫 I am a Ph.D. candidate majoring in computer science and engineering at Korea University.
 
 🥅 2025 Goal: Focus 🙂
 
-⚡ Hobbies: Soccer, Workout, Movies,and maybe Coding 😉
+⚡ Hobbies: Soccer, Workouts, Movies, and maybe Coding 😉
 
 <a href="https://www.linkedin.com/in/sinai-nday-312195160/" target="_blank">Let's connect on LinkedIn</a>
 
